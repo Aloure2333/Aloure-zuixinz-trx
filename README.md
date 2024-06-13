@@ -1,5 +1,4 @@
-# Aloure-zuixinz-trx
-Aloure-trx-#最新修复版#TRX自动兑换机器人源码#搭建教程
+# Aloure-zuixinz-trx#最新修复版#TRX自动兑换机器人源码#搭建教程
 
 商品描述
 
@@ -30,3 +29,5 @@ TRX自动兑换机器人，有搭建教程，没有测试，有兴趣的自行�
 ![image](https://github.com/Aloure2333/Aloure-zuixinz-trx/assets/171737555/fabd158f-8bda-4e1a-839c-b661108e39c2)
 ![image](https://github.com/Aloure2333/Aloure-zuixinz-trx/assets/171737555/2c2d0442-4993-408f-8b22-7094977ece3e)
 ![image](https://github.com/Aloure2333/Aloure-zuixinz-trx/assets/171737555/75f670a4-2881-4da4-bee4-92708f6ed3a6)
+
+详细链接https://hfbot-pro.hfz2333.top/archives/228
